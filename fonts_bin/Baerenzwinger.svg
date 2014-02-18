@@ -1,6 +1,8 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
+The Baerenzwinger Font v0.73
+
 Copyright &#194;&#169; 2012-2014, Stefan Liehmann (limi@limi.eu),
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -16,7 +18,7 @@ Please note:
 -->
 <svg>
 <metadata>
-Created by FontForge 20120702 at Tue Feb 18 10:27:51 2014
+Created by FontForge 20120702 at Tue Feb 18 12:49:01 2014
 
 Copyright (c) 2012-2014, Stefan Liehmann (limi@limi.eu)
 Created with FontForge 2.0 (http://fontforge.sf.net)
@@ -241,5 +243,7 @@ d="M535 843v-546h403v546h-403zM90 1140h1293v-1140h-1293v1140zM938 1638h445v-297h
 d="M938 1638h445v-297h-445v297zM90 1638h445v-297h-445v297zM938 1140h445v-1140h-1293v1140h445v-843h403v843z" />
     <glyph glyph-name="Euro" unicode="&#x20ac;" horiz-adv-x="1516" 
 d="M387 1140v498h1039v-297h-594v-201h297v-297h-297v-201h297v-297h-297v-345h594v-297h-1039v642h-297v297h297v201h-297v297h297z" />
+    <glyph glyph-name="germandbls" unicode="&#xdf;" 
+d="M680 843v297h258v201h-403v-1839h-445v2136h445h848v-1638h-703v297h258v546h-258z" />
   </font>
 </defs></svg>
