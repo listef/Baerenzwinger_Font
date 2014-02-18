@@ -3,25 +3,27 @@ FontName: Baerenzwinger
 FullName: Baerenzwinger
 FamilyName: Baerenzwinger
 Weight: Bold
-Copyright: Copyright (c) 2012-2013, Stefan Liehmann (stefanliehmann@googlemail.com)\nCreated with FontForge 2.0 (http://fontforge.sf.net)
-Version: 0.71
+Copyright: Copyright (c) 2012-2014, Stefan Liehmann (limi@limi.eu)\nCreated with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu),+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAA-This font is inspired by old hand-made letters found in Dresden, Germany, and used is by +ACIA-Studentenclub B+AOQA-renzwinger+ACIACgAA(http://baerenzwinger.de):+AAoA-http://postimage.org/image/hy2s2i5t1/+AAoACgAA-Please note:+AAoAIgAA-B+AOQA-renzwinger+ACIA is a registered wordmark of +ACIA-Studentenclub B+AOQA-renzwinger+ACIA in Germany." 
+Version: 0.72
 ItalicAngle: 0
 UnderlinePosition: -203
 UnderlineWidth: 100
 Ascent: 1638
 Descent: 498
 woffMajor: 0
-woffMinor: 71
+woffMinor: 72
+woffMetadata: "<?xml version+AD0AIgAA-1.0+ACIA encoding+AD0AIgAA-UTF-8+ACIA?>+AAoA<metadata version+AD0AIgAA-1.0+ACIA>+AAoA   <vendor name+AD0AIgAA-Studentenclub B+AOQA-renzwinger e.V.+ACIA url+AD0AIgAA-http://baerenzwinger.de+ACIA-/>+AAoA   <credits>+AAoA       <credit name+AD0AIgAA-Stefan Liehmann+ACIA role+AD0AIgAA-design+ACIA-/>+AAoA   </credits>+AAoA   <description>+AAoA       <text lang+AD0AIgAA-en+ACIA>The Baerenzwinger Font</text>+AAoA   </description>+AAoA   <license url+AD0AIgAA-http://scripts.sil.org/OFL+ACIA id+AD0AIgAA-SIL-OFL-v1.1+ACIA>+AAoA       <text lang+AD0AIgAA-en+ACIA>This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL</text>+AAoA   </license>+AAoA   <copyright>+AAoA       <text lang+AD0AIgAA-en+ACIA>Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu)</text>+AAoA   </copyright>+AAoA   <trademark>+AAoA       <text lang+AD0AIgAA-en+ACIA>B+AOQA-renzwinger is a registered wordmark of +ACIA-Studentenclub B+AOQA-renzwinger e.V.+ACIA in Germany</text>+AAoA   </trademark>+AAoA</metadata>" 
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Zeichenebene"  0
 XUID: [1021 435 22966 31575]
 FSType: 0
-OS2Version: 1
+OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1331642658
-ModificationTime: 1380106580
+ModificationTime: 1392715482
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -78,7 +80,7 @@ ShortTable: maxp 16
   1
   1
 EndShort
-LangName: 1033 "Copyright +AKkA 2012-2013, Stefan Liehmann (stefanliehmann@googlemail.com)+AAoA-Created with FontForge 2.0 (http://fontforge.sf.net)" "" "" "FontForge 2.0 : Baerenzwinger : 17-9-2013" "" "" "" "" "" "" "inspired by old hand-made letters found in Dresden, Germany: http://postimage.org/image/hy2s2i5t1/" "" "" "Copyright +AKkA 2012-2013, Stefan Liehmann (stefanliehmann@googlemail.com),+AAoA-with Reserved Font Name Baerenzwinger.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" 
+LangName: 1033 "Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu)+AAoA-Created with FontForge 2.0 (http://fontforge.sf.net)" "" "" "FontForge 2.0 : Baerenzwinger : 2014-02-18" "" "" "" "B+AOQA-renzwinger is a registered wordmark of Studentenclub B+AOQA-renzwinger e.V. in Germany" "Studentenclub B+AOQA-renzwinger e.V." "Stefan Liehmann (Limi) <limi@limi.eu>" "inspired by old hand-made letters found in Dresden, Germany: http://postimage.org/image/hy2s2i5t1/" "http://baerenzwinger.de/" "http://limi.eu/" "Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu),+AAoA-with Reserved Font Name Baerenzwinger.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -86,7 +88,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 32 8
+WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65539 101
@@ -118,6 +120,7 @@ SplineSet
  535 498 l 1,7,-1
  90 498 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -139,6 +142,7 @@ SplineSet
  588 1140 l 1,7,-1
  588 1638 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: numbersign
@@ -184,6 +188,7 @@ SplineSet
  560 470 l 1,31,-1
  760 470 l 1,28,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dollar
@@ -216,6 +221,7 @@ SplineSet
  938 498 l 1,19,-1
  90 498 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -242,6 +248,7 @@ SplineSet
  1036 1638 l 1,11,-1
  1481 1638 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -269,6 +276,7 @@ SplineSet
  736 1140 l 1,13,-1
  736 1341 l 1,10,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -285,6 +293,7 @@ SplineSet
  90 1140 l 1,3,-1
  90 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenleft
@@ -307,6 +316,7 @@ SplineSet
  90 445 l 1,9,-1
  90 1190 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -329,6 +339,7 @@ SplineSet
  387 1638 l 1,9,-1
  832 1190 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -356,6 +367,7 @@ SplineSet
  383 795 l 1,14,-1
  90 795 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -380,6 +392,7 @@ SplineSet
  412 795 l 1,11,-1
  90 795 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: comma
@@ -398,6 +411,7 @@ SplineSet
  785 -297 l 1,5,-1
  90 -297 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hyphen
@@ -414,6 +428,7 @@ SplineSet
  1030 397 l 1,3,-1
  90 397 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -430,6 +445,7 @@ SplineSet
  535 0 l 1,3,-1
  90 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: slash
@@ -446,6 +462,7 @@ SplineSet
  1036 1638 l 1,3,-1
  1481 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -467,6 +484,7 @@ SplineSet
  90 0 l 1,7,-1
  90 1638 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one
@@ -485,6 +503,7 @@ SplineSet
  90 1638 l 1,5,-1
  980 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -509,6 +528,7 @@ SplineSet
  1383 1638 l 1,11,-1
  1383 843 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: three
@@ -533,6 +553,7 @@ SplineSet
  938 1341 l 1,11,-1
  90 1341 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: four
@@ -555,6 +576,7 @@ SplineSet
  938 1140 l 1,9,-1
  938 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: five
@@ -579,6 +601,7 @@ SplineSet
  938 843 l 1,11,-1
  90 843 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: six
@@ -604,6 +627,7 @@ SplineSet
  90 0 l 1,11,-1
  90 1638 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: seven
@@ -630,6 +654,7 @@ SplineSet
  935 445 l 1,13,-1
  935 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eight
@@ -656,6 +681,7 @@ SplineSet
  90 1638 l 1,11,-1
  1383 1638 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -681,6 +707,7 @@ SplineSet
  938 1140 l 1,11,-1
  938 1341 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: colon
@@ -702,6 +729,7 @@ SplineSet
  535 795 l 1,7,-1
  90 795 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: semicolon
@@ -725,6 +753,7 @@ SplineSet
  785 795 l 1,9,-1
  340 795 l 1,6,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: less
@@ -745,6 +774,7 @@ SplineSet
  1050 1397 l 1,7,-1
  1050 1100 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: equal
@@ -766,6 +796,7 @@ SplineSet
  1030 843 l 1,7,-1
  90 843 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -786,6 +817,7 @@ SplineSet
  753 777 l 1,7,-1
  90 1100 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: question
@@ -815,6 +847,7 @@ SplineSet
  1383 1638 l 1,15,-1
  1383 843 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: at
@@ -844,6 +877,7 @@ SplineSet
  90 0 l 1,15,-1
  90 1638 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: A
@@ -854,6 +888,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 65 97 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: B
@@ -864,6 +899,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 66 98 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: C
@@ -874,6 +910,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 67 99 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: D
@@ -884,6 +921,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 68 100 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: E
@@ -894,6 +932,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 69 101 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: F
@@ -904,6 +943,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 102 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: G
@@ -914,6 +954,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 71 103 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: H
@@ -924,6 +965,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 72 104 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: I
@@ -934,6 +976,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 73 105 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: J
@@ -944,6 +987,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 74 106 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: K
@@ -954,6 +998,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 107 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: L
@@ -964,6 +1009,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 76 108 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: M
@@ -974,6 +1020,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 77 109 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: N
@@ -984,6 +1031,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 78 110 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: O
@@ -994,6 +1042,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 79 111 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: P
@@ -1004,6 +1053,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 80 112 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Q
@@ -1014,6 +1064,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 81 113 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: R
@@ -1024,6 +1075,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 114 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: S
@@ -1034,6 +1086,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 83 115 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: T
@@ -1044,6 +1097,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 84 116 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: U
@@ -1054,6 +1108,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 85 117 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: V
@@ -1064,6 +1119,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 86 118 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: W
@@ -1074,6 +1130,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 87 119 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: X
@@ -1084,6 +1141,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 88 120 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Y
@@ -1094,6 +1152,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 89 121 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -1104,6 +1163,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 90 122 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: bracketleft
@@ -1124,6 +1184,7 @@ SplineSet
  90 0 l 1,7,-1
  90 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -1140,6 +1201,7 @@ SplineSet
  1036 0 l 1,3,-1
  90 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -1160,6 +1222,7 @@ SplineSet
  90 1638 l 1,7,-1
  832 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asciicircum
@@ -1179,6 +1242,7 @@ SplineSet
  290 1638 l 1,6,-1
  685 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: underscore
@@ -1195,6 +1259,7 @@ SplineSet
  1030 0 l 1,3,-1
  90 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: grave
@@ -1211,6 +1276,7 @@ SplineSet
  266 1341 l 1,3,-1
  90 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: a
@@ -1236,6 +1302,7 @@ SplineSet
  90 843 l 1,11,-1
  90 1140 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: b
@@ -1259,6 +1326,7 @@ SplineSet
  90 0 l 1,9,-1
  90 1638 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: c
@@ -1279,6 +1347,7 @@ SplineSet
  1086 0 l 1,7,-1
  90 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d
@@ -1302,6 +1371,7 @@ SplineSet
  938 1638 l 1,9,-1
  1383 1638 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: e
@@ -1327,6 +1397,7 @@ SplineSet
  1383 297 l 1,11,-1
  1383 0 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: f
@@ -1353,6 +1424,7 @@ SplineSet
  735 0 l 1,13,-1
  290 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: g
@@ -1378,6 +1450,7 @@ SplineSet
  90 -201 l 1,11,-1
  938 -201 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: h
@@ -1400,6 +1473,7 @@ SplineSet
  938 0 l 1,9,-1
  938 843 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i
@@ -1421,6 +1495,7 @@ SplineSet
  90 0 l 1,7,-1
  90 1140 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: j
@@ -1444,6 +1519,7 @@ SplineSet
  832 -498 l 1,9,-1
  90 -498 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: k
@@ -1472,6 +1548,7 @@ SplineSet
  1383 445 l 1,15,-1
  1383 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l
@@ -1488,6 +1565,7 @@ SplineSet
  90 0 l 1,3,-1
  90 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: m
@@ -1512,6 +1590,7 @@ SplineSet
  1382 843 l 1,11,-1
  1181 843 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: n
@@ -1532,6 +1611,7 @@ SplineSet
  1383 0 l 1,7,-1
  938 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: o
@@ -1553,6 +1633,7 @@ SplineSet
  90 0 l 1,7,-1
  90 1140 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: p
@@ -1576,6 +1657,7 @@ SplineSet
  535 -498 l 1,9,-1
  90 -498 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: q
@@ -1599,6 +1681,7 @@ SplineSet
  1383 1140 l 1,9,-1
  1383 -498 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r
@@ -1617,6 +1700,7 @@ SplineSet
  90 1140 l 1,5,-1
  938 1140 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s
@@ -1641,6 +1725,7 @@ SplineSet
  535 695 l 1,11,-1
  1383 695 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: t
@@ -1665,6 +1750,7 @@ SplineSet
  735 943 l 1,11,-1
  735 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u
@@ -1685,6 +1771,7 @@ SplineSet
  938 297 l 1,7,-1
  938 1140 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v
@@ -1705,6 +1792,7 @@ SplineSet
  790 297 l 1,7,-1
  938 1140 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w
@@ -1729,6 +1817,7 @@ SplineSet
  1181 992 l 1,11,-1
  1181 297 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: x
@@ -1761,6 +1850,7 @@ SplineSet
  1383 445 l 1,19,-1
  1383 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: y
@@ -1785,6 +1875,7 @@ SplineSet
  938 297 l 1,11,-1
  938 1140 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z
@@ -1809,6 +1900,7 @@ SplineSet
  1383 1140 l 1,11,-1
  1383 445 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bar
@@ -1825,6 +1917,7 @@ SplineSet
  180 -498 l 1,3,-1
  180 1638 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Adieresis
@@ -1835,6 +1928,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 96 228 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Edieresis
@@ -1845,6 +1939,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 97 235 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Odieresis
@@ -1855,6 +1950,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 98 246 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -1865,6 +1961,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 99 252 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: adieresis
@@ -1900,6 +1997,7 @@ SplineSet
  90 1341 l 1,19,-1
  90 1638 l 1,16,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: edieresis
@@ -1935,6 +2033,7 @@ SplineSet
  1383 297 l 1,19,-1
  1383 0 l 1,12,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: odieresis
@@ -1966,6 +2065,7 @@ SplineSet
  90 1341 l 1,15,-1
  90 1638 l 1,12,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: udieresis
@@ -1996,6 +2096,7 @@ SplineSet
  938 297 l 1,15,-1
  938 1140 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Euro
@@ -2032,6 +2133,7 @@ SplineSet
  90 1140 l 1,23,-1
  387 1140 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
