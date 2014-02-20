@@ -15,7 +15,7 @@ Source code for Fontforge (http://fontforge.org/) as well as compiled font in di
 
 Sample:
 -------
-[Sample](./pics/Pangramm_Baerenzwinger_Font.png)
+![Sample](./pics/Pangramm_Baerenzwinger_Font.png)
 
 Please note:
 ------------
