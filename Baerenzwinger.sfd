@@ -3,7 +3,7 @@ FontName: Baerenzwinger
 FullName: Baerenzwinger
 FamilyName: Baerenzwinger
 Weight: Bold
-Copyright: Copyright (c) 2012-2014, Stefan Liehmann (limi@limi.eu)\nCreated with FontForge 2.0 (http://fontforge.sf.net)
+Copyright: Copyright (c) 2012-2014, Stefan Liehmann (limi@limi.eu)\nCreated with FontForge 2.0 (http://fontforge.sf.net)\n
 UComments: "The Baerenzwinger Font v0.73+AAoACgAA-Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu),+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAA-This font is inspired by old hand-made letters found in Dresden, Germany, and used is by +ACIA-Studentenclub B+AOQA-renzwinger+ACIACgAA(http://baerenzwinger.de):+AAoA-http://postimage.org/image/hy2s2i5t1/+AAoACgAA-Please note:+AAoAIgAA-B+AOQA-renzwinger+ACIA is a registered wordmark of +ACIA-Studentenclub B+AOQA-renzwinger+ACIA in Germany." 
 Version: 0.73
 ItalicAngle: 0
@@ -23,7 +23,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1331642658
-ModificationTime: 1392723952
+ModificationTime: 1411034729
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -80,7 +80,7 @@ ShortTable: maxp 16
   1
   1
 EndShort
-LangName: 1033 "Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu)+AAoA-Created with FontForge 2.0 (http://fontforge.sf.net)" "" "" "FontForge 2.0 : Baerenzwinger : 2014-02-18" "" "" "" "B+AOQA-renzwinger is a registered wordmark of Studentenclub B+AOQA-renzwinger e.V. in Germany" "Studentenclub B+AOQA-renzwinger e.V." "Stefan Liehmann (Limi) <limi@limi.eu>" "inspired by old hand-made letters found in Dresden, Germany: http://postimage.org/image/hy2s2i5t1/" "http://baerenzwinger.de/" "http://limi.eu/" "Copyright +AKkA 2012-2014, Stefan Liehmann (limi@limi.eu),+AAoA-with Reserved Font Name Baerenzwinger.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" 
+LangName: 1033 "" "" "" "FontForge 2.0 : Baerenzwinger : 2014-02-18" "" "" "" "B+AOQA-renzwinger is a registered wordmark of Studentenclub B+AOQA-renzwinger e.V. in Germany" "Studentenclub B+AOQA-renzwinger e.V." "Stefan Liehmann (Limi) <limi@limi.eu>" "inspired by old hand-made letters found in Dresden, Germany: http://postimage.org/image/hy2s2i5t1/" "http://baerenzwinger.de/" "http://limi.eu/" "Copyright (c) 2012-2014, Stefan Liehmann (limi@limi.eu),+AA0A-with Reserved Font Name Baerenzwinger.+AA0ADQAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0A-This license is available with a FAQ at:+AA0A-http://scripts.sil.org/OFL+AA0A" "http://scripts.sil.org/OFL" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -88,7 +88,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 8
+WinInfo: 64 32 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65539 102
@@ -2160,6 +2160,7 @@ SplineSet
  938 843 l 1,14,-1
  680 843 l 9,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
